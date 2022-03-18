@@ -27,6 +27,7 @@ header.display-flex{
 }
 
 .img{
+  position: relative;
   flex-basis: 300px;
   height: 168px;
   margin: 5px;
@@ -42,5 +43,6 @@ header.display-flex{
 
 .fa-chevron-up{
   font-size: 10px;
+  padding-top: 25px;
 }
 
