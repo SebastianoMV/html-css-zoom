@@ -46,3 +46,7 @@ header.display-flex{
   padding-top: 25px;
 }
 
+ul li:active .fa-size{
+  color: #50cb06;
+}
+
