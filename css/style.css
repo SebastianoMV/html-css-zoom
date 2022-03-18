@@ -8,9 +8,6 @@ header{
 
 
 
-
-
-
 /* MAIN */
 
 main{
@@ -21,7 +18,6 @@ main{
 .main-flex{
   flex-wrap: wrap;
   justify-content: center;
-  
 }
 
 .img span{
