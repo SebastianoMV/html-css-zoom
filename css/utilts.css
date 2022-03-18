@@ -1,3 +1,46 @@
 .background-black{
   background-color: black;
 }
+
+.display-flex{
+  display: flex;
+}
+
+.space-between{
+  justify-content: space-between;
+}
+
+.space-around{
+  justify-content: space-around;
+}
+
+header.display-flex{
+  justify-content: flex-end;
+  padding-top: 10px;
+}
+
+.btn-gray{
+  background-color: #5c5a5c;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.img{
+  flex-basis: 300px;
+  height: 168px;
+  margin: 5px;
+}
+
+.img img{
+  width: 100%;
+}
+
+.fa-size{
+  font-size: 40px;
+}
+
+.fa-chevron-up{
+  font-size: 10px;
+}
+
