@@ -50,3 +50,7 @@ ul li:active .fa-size{
   color: #50cb06;
 }
 
+
+ul li:hover .fa-size{
+  cursor: pointer;
+}
